@@ -3,4 +3,5 @@ The project aims to build a pipeline that allows learners to build their very fi
 
 ## Get Started
 Run pipeline.ipynb
+
 Read report.pdf for detailed explanation
